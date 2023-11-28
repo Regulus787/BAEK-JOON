@@ -1,10 +1,10 @@
-# BEAK-JOON <br>
-BAEK-JOON Algorithm Test Answer Files <br>
+# BEAK-JOON
+BAEK-JOON Algorithm Test Answer Files
 
-https://www.acmicpc.net/ <br>
+https://www.acmicpc.net/
 
-Each number is representing the question number.<br>
+Each number represents the question number.
 
-You can using search bar in this web site above.<br>
+You can use the search bar on this website above.
 
 Thanks
